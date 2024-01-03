@@ -37,7 +37,8 @@ function(x,y)
 ~~~
 
 ### OUTPUT:
-![Uploading WhatsApp Image 2024-01-03 at 07.49.33_14a531be.jpg…]()
+![WhatsApp Image 2024-01-03 at 07 49 33_14a531be](https://github.com/Pandurusomu/copy-file/assets/148988619/5b4453fb-3d6b-470b-be36-da4313372274)
+
 
 
 
